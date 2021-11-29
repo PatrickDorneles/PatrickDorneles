@@ -1,7 +1,7 @@
 # Hi there 👋
-I'm a junior fullstack developer that loves new solutions and technologies.
+I'm a fullstack developer that loves new solutions and technologies.
 ## Work 💻
-I'm currently working at Brazpine as a junior developer, coding Android, React and Node apps.
+I'm searching new opportunities in my main tech stack: React and Node.
 ## Leaning 📕
 I study Software Engineering at Estácio de Sá University. I'm also learning some game development with Godot, getting better at both React and Node, and trying a little bit of Vue.
 ## Techs
