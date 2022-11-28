@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a fullstack developer that loves new solutions and technologies.
 ## Work 💻
-Working as Midlevel Fullstack Developer at WeDevUp
+
 ## Leaning 📕
 I study Software Engineering at Estácio de Sá University. I'm also learning some game development with Godot, getting better at both React and Node, and trying a little bit of Vue.
 ## Techs
