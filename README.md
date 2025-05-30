@@ -17,6 +17,7 @@ I'm studying Software Engineering at Estácio de Sá University. At the same tim
 [![Facebook Link](https://img.shields.io/badge/-Facebook-1876F3?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Patrick-Dorneles/100072043064054/)  
 
 My email: patrick.o.dorneles@gmail.com
+My portfolio (WIP): https://patrickdorneles.vercel.app/
 
 
 
